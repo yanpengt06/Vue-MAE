@@ -9,4 +9,4 @@
 
 1. 下载vue-element-admin，替换src
 2. 下载tracking.js,放至src下对应目录
-3. 下载依赖(tracking.js)后npm run dev 可在开发环境下运行，完整demo已部署至101.43.135.58
+3. 下载依赖(tracking.js)后npm run dev 可在开发环境下运行，完整demo已部署至腾讯云服务器
